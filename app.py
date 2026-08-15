@@ -9,7 +9,7 @@ st.write("Hedefine ulaşmak için buradayım kanki!")
 
 # API ANAHTARIN (Google AI Studio'dan aldığın o uzun kod)
 # Lütfen tırnakları silmeden kendi anahtarını buraya yapıştır:
-API_KEY = "BURAYA_API_ANAHTARINI_YAZ"
+API_KEY = "AQ.Ab8RN6KRexcrYqSo9LJDDyUTgR4MWlRdSC66l5RBgf5IGLqR2w"
 
 if API_KEY == "AQ.Ab8RN6L6Qzu2nLNd9aumhpQpXy8CVG8M-R8yThy8LzxGLHl4ag":
     st.error("⚠️ API anahtarını koddaki tırnakların arasına yapıştırmamışsın! Lütfen düzenle.")
